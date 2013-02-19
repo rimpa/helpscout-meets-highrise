@@ -1,6 +1,8 @@
 helpscout-meets-highrise
 ========================
 
+Quick and dirty solution to integrate HelpScout and Highrise.
+
 Makes all helpscout massages and clients apear in Highrise automatically.
 
 Setup
